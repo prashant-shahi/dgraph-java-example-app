@@ -1,1 +1,1 @@
-# Dgraph Java Example App
+# Java Example App 
